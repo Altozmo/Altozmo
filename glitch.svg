@@ -1,53 +1,26 @@
 <svg width="800" height="140" viewBox="0 0 800 140" xmlns="http://w3.org">
-  <rect width="100%" height="100%" fill="#07080f" rx="10" />
-  <style>
-    .text {
-      font-family: 'Courier New', monospace;
-      font-weight: 900;
-      font-size: 46px;
-      letter-spacing: 5px;
-    }
-    .cyan {
-      fill: #00f7ff;
-      animation: glitch-cyan 2.2s infinite;
-    }
-    .magenta {
-      fill: #ff0055;
-      animation: glitch-magenta 2.2s infinite;
-    }
-    .main {
-      fill: #ffffff;
-    }
-    .sub {
-      font-family: 'Courier New', monospace;
-      font-size: 14px;
-      fill: #00f7ff;
-      letter-spacing: 3px;
-      animation: flicker 3s infinite;
-    }
-    @keyframes glitch-cyan {
-      0%, 100% { transform: translate(0, 0); }
-      20% { transform: translate(-4px, 2px); }
-      40% { transform: translate(4px, -2px); }
-      60% { transform: translate(-2px, -1px); }
-    }
-    @keyframes glitch-magenta {
-      0%, 100% { transform: translate(0, 0); }
-      25% { transform: translate(4px, -2px); }
-      50% { transform: translate(-4px, 2px); }
-      75% { transform: translate(2px, 1px); }
-    }
-    @keyframes flicker {
-      0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% { opacity: 1; }
-      20%, 24%, 55% { opacity: 0.3; }
-    }
-  </style>
+  <rect width="800" height="140" fill="#07080f" rx="10" />
 
-  <!-- Neon Glitch Layers -->
-  <text x="50%" y="52%" dominant-baseline="middle" text-anchor="middle" class="text cyan">SYSTEM_ONLINE</text>
-  <text x="50%" y="52%" dominant-baseline="middle" text-anchor="middle" class="text magenta">SYSTEM_ONLINE</text>
-  <text x="50%" y="52%" dominant-baseline="middle" text-anchor="middle" class="text main">SYSTEM_ONLINE</text>
+  <!-- Cyan Glitch Layer -->
+  <text x="400" y="72" font-family="monospace" font-weight="900" font-size="46" letter-spacing="5" fill="#00f7ff" text-anchor="middle">
+    SYSTEM_ONLINE
+    <animateTransform attributeName="transform" type="translate" values="0,0; -4,2; 4,-2; -2,-1; 0,0" dur="1.5s" repeatCount="indefinite" />
+  </text>
+
+  <!-- Magenta Glitch Layer -->
+  <text x="400" y="72" font-family="monospace" font-weight="900" font-size="46" letter-spacing="5" fill="#ff0055" text-anchor="middle">
+    SYSTEM_ONLINE
+    <animateTransform attributeName="transform" type="translate" values="0,0; 4,-2; -4,2; 2,1; 0,0" dur="1.5s" repeatCount="indefinite" />
+  </text>
+
+  <!-- Main White Text -->
+  <text x="400" y="72" font-family="monospace" font-weight="900" font-size="46" letter-spacing="5" fill="#ffffff" text-anchor="middle">
+    SYSTEM_ONLINE
+  </text>
 
   <!-- Flickering Subtitle -->
-  <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle" class="sub">[ NEURAL LINK ESTABLISHED // ACCESS GRANTED ]</text>
+  <text x="400" y="112" font-family="monospace" font-size="14" letter-spacing="3" fill="#00f7ff" text-anchor="middle">
+    [ NEURAL LINK ESTABLISHED // ACCESS GRANTED ]
+    <animate attributeName="opacity" values="1; 0.2; 1; 0.4; 1" dur="2.5s" repeatCount="indefinite" />
+  </text>
 </svg>
