@@ -1,24 +1,26 @@
-&#x20;\<div align="center">
 
-\<img src="[https://capsule-render.vercel.app/api?type=venom&color=0:080B1C,50:102B63,100:00CFFF&height=220&section=header&text=ALTOZMO&fontSize=68&fontColor=FFFFFF&animation=fadeIn&stroke=00CFFF&strokeWidth=1](https://capsule-render.vercel.app/api?type=venom\&color=0:080B1C,50:102B63,100:00CFFF\&height=220\&section=header\&text=ALTOZMO\&fontSize=68\&fontColor=FFFFFF\&animation=fadeIn\&stroke=00CFFF\&strokeWidth=1)" width="100%"/>
+<div align="center">
 
-\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=48D9FF&center=true&vCenter=true&width=650&lines=GLITCH+KNIGHT+%2F%2F+SYSTEM+ONLINE;PYTHON+DEVELOPER+IN+PROGRESS;EXPLORING+ARTIFICIAL+INTELLIGENCE;BUILDING+IDEAS+FROM+SCRATCH](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=17\&duration=2800\&pause=900\&color=48D9FF\&center=true\&vCenter=true\&width=650\&lines=GLITCH+KNIGHT+%2F%2F+SYSTEM+ONLINE;PYTHON+DEVELOPER+IN+PROGRESS;EXPLORING+ARTIFICIAL+INTELLIGENCE;BUILDING+IDEAS+FROM+SCRATCH)" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B1C,50:102B63,100:00CFFF&height=200&section=header&text=ALTOZMO&fontSize=65&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
-\<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=48D9FF&center=true&vCenter=true&width=600&lines=GLITCH+KNIGHT+%2F%2F+ONLINE;PYTHON+DEVELOPER+IN+PROGRESS;EXPLORING+ARTIFICIAL+INTELLIGENCE;BUILDING+THE+FUTURE." />
 
-\<img src="[https://img.shields.io/badge/SYSTEM-ONLINE-00CFFF?style=for-the-badge&labelColor=080B1C](https://img.shields.io/badge/SYSTEM-ONLINE-00CFFF?style=for-the-badge\&labelColor=080B1C)"/> \<img src="[https://img.shields.io/badge/IDENTITY-GLITCH_KNIGHT-8B5CF6?style=for-the-badge&labelColor=080B1C](https://img.shields.io/badge/IDENTITY-GLITCH_KNIGHT-8B5CF6?style=for-the-badge\&labelColor=080B1C)"/>
+<br/>
 
-\</div>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00CFFF?style=for-the-badge&labelColor=080B1C"/>
+<img src="https://img.shields.io/badge/IDENTITY-GLITCH_KNIGHT-8B5CF6?style=for-the-badge&labelColor=080B1C"/>
+
+</div>
 
 ---
 
-## `01 // IDENTITY`
+<h2 align="center"> ◈ IDENTITY DATABASE ◈ </h2>
 
 ```yaml
 NAME: ALTOZMO
 ALIAS: GLITCH KNIGHT
 ROLE: DEVELOPER / CREATOR
-FOCUS:
+SPECIALIZATION:
   - PYTHON
   - ARTIFICIAL INTELLIGENCE
   - GAME DEVELOPMENT
@@ -26,51 +28,49 @@ STATUS: CONSTANTLY EVOLVING
 MISSION: TURN IDEAS INTO REALITY
 ```
 
-## `02 // ABOUT ME`
+<h2 align="center"> ◈ ABOUT THE OPERATOR ◈ </h2>
 
 > Somewhere between technology and imagination.
 
-I'm a developer in progress, interested in building things that are creative, useful, and a little futuristic.
-
 - Exploring Python and software development.
-- Experimenting with artificial intelligence.
-- Interested in creating games and digital projects.
-- Always learning something new.
+- Experimenting with Artificial Intelligence.
+- Building games and creative projects.
+- Interested in science, technology and innovation.
 
-## `03 // TECHNOLOGY DATABASE`
+<h2 align="center"> ◈ TECHNOLOGY DATABASE ◈ </h2>
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark](https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode\&theme=dark)"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark"/>
 
-\</div>
+</div>
 
-## `04 // ACTIVE OPERATIONS`
+<h2 align="center"> ◈ ACTIVE OPERATIONS ◈ </h2>
 
-| PROJECT       | MISSION                             |
-| :------------ | :---------------------------------- |
+| PROJECT | DESCRIPTION |
+|:---|:---|
 | 🍎 FreshCheck | AI-based fruit freshness estimation |
-| 🤖 AI Lab     | Exploring artificial intelligence   |
-| 🎮 Game Lab   | Experimenting with game development |
+| 🤖 AI Lab | Artificial intelligence experiments |
+| 🎮 Game Lab | Game development experiments |
 
-## `05 // GITHUB TELEMETRY`
+<h2 align="center"> ◈ GITHUB TELEMETRY ◈ </h2>
 
-\<div align="center">
+<div align="center">
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=Altozmo&show_icons=true&hide_border=true&bg_color=080B1C&title_color=48D9FF&icon_color=8B5CF6&text_color=C9D1D9](https://github-readme-stats.vercel.app/api?username=Altozmo\&show_icons=true\&hide_border=true\&bg_color=080B1C\&title_color=48D9FF\&icon_color=8B5CF6\&text_color=C9D1D9)"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Altozmo&show_icons=true&hide_border=true&bg_color=080B1C&title_color=48D9FF&icon_color=8B5CF6&text_color=C9D1D9"/>
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Altozmo&layout=compact&hide_border=true&bg_color=080B1C&title_color=48D9FF&text_color=C9D1D9](https://github-readme-stats.vercel.app/api/top-langs/?username=Altozmo\&layout=compact\&hide_border=true\&bg_color=080B1C\&title_color=48D9FF\&text_color=C9D1D9)"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altozmo&layout=compact&hide_border=true&bg_color=080B1C&title_color=48D9FF&text_color=C9D1D9"/>
 
-\</div>
+</div>
 
-## `06 // TRANSMISSION`
+---
 
-\<div align="center">
+<div align="center">
 
-**THE SYSTEM NEVER STOPS EVOLVING.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,50:102B63,100:080B1C&height=120&section=footer" width="100%"/>
+
+**THE FUTURE IS UNDER CONSTRUCTION.**
 
 `END OF TRANSMISSION // ALTOZMO`
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,50:102B63,100:080B1C&height=110&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:00CFFF,50:102B63,100:080B1C\&height=110\&section=footer)" width="100%"/>
-
-\</div>
+</div>
