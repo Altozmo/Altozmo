@@ -13,6 +13,13 @@
 </div>
 
 ---
+<h2 align="center">⚡ TECH ARSENAL</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
+
+</div>
 
 ### `// CURRENT TRANSMISSION`
 
