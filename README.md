@@ -1,76 +1,207 @@
 
+<!-- ================================================= -->
+<!-- ALTOZMO // GLITCH KNIGHT                           -->
+<!-- CYBERPUNK PROFILE SYSTEM v3.0                      -->
+<!-- ================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B1C,50:102B63,100:00CFFF&height=200&section=header&text=ALTOZMO&fontSize=65&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<h1>
+  <samp>⟢ A L T O Z M O ⟣</samp>
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=48D9FF&center=true&vCenter=true&width=600&lines=GLITCH+KNIGHT+%2F%2F+ONLINE;PYTHON+DEVELOPER+IN+PROGRESS;EXPLORING+ARTIFICIAL+INTELLIGENCE;BUILDING+THE+FUTURE." />
+<h3>「 GLITCH KNIGHT 」</h3>
+
+<samp>
+  CYBERNETIC DEVELOPER // DIGITAL CREATOR // FUTURE BUILDER
+</samp>
 
 <br/>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00CFFF?style=for-the-badge&labelColor=080B1C"/>
-<img src="https://img.shields.io/badge/IDENTITY-GLITCH_KNIGHT-8B5CF6?style=for-the-badge&labelColor=080B1C"/>
+`[ SYSTEM ONLINE ]` &nbsp; ` [ ACCESS GRANTED ]` &nbsp; `[ VERSION 3.0 ]`
+
+<br/><br/>
+
+<samp>BUILD THE IMPOSSIBLE. CODE THE UNIMAGINABLE.</samp>
 
 </div>
 
 ---
 
-<h2 align="center"> ◈ IDENTITY DATABASE ◈ </h2>
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### ◈ 01 / OPERATOR PROFILE
 
 ```yaml
-NAME: ALTOZMO
-ALIAS: GLITCH KNIGHT
-ROLE: DEVELOPER / CREATOR
-SPECIALIZATION:
-  - PYTHON
-  - ARTIFICIAL INTELLIGENCE
-  - GAME DEVELOPMENT
-STATUS: CONSTANTLY EVOLVING
-MISSION: TURN IDEAS INTO REALITY
+IDENTITY    : ALTOZMO
+ALIAS       : GLITCH KNIGHT
+CLASS       : DEVELOPER
+SPECIALTY   : EXPERIMENTAL TECH
+
+CURRENT FOCUS:
+  > PYTHON
+  > ARTIFICIAL INTELLIGENCE
+  > GAME DEVELOPMENT
+  > CREATIVE ENGINEERING
+
+STATUS      : LEARNING / BUILDING
+DIRECTIVE   : NEVER STOP CREATING
 ```
 
-<h2 align="center"> ◈ ABOUT THE OPERATOR ◈ </h2>
+</td>
+<td width="45%" valign="top">
 
-> Somewhere between technology and imagination.
+### ◈ 02 / SYSTEM MESSAGE
 
-- Exploring Python and software development.
-- Experimenting with Artificial Intelligence.
-- Building games and creative projects.
-- Interested in science, technology and innovation.
+```text
+[ INITIALIZING... ]
 
-<h2 align="center"> ◈ TECHNOLOGY DATABASE ◈ </h2>
+Operator identified.
 
-<div align="center">
+Curiosity:     UNLIMITED
+Creativity:    ACTIVE
+Learning:      IN PROGRESS
+Innovation:   ENABLED
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark"/>
+[ READY FOR DEPLOYMENT ]
+```
 
-</div>
+</td>
+</tr>
+</table>
 
-<h2 align="center"> ◈ ACTIVE OPERATIONS ◈ </h2>
-
-| PROJECT | DESCRIPTION |
-|:---|:---|
-| 🍎 FreshCheck | AI-based fruit freshness estimation |
-| 🤖 AI Lab | Artificial intelligence experiments |
-| 🎮 Game Lab | Game development experiments |
-
-<h2 align="center"> ◈ GITHUB TELEMETRY ◈ </h2>
+## ◈ 03 / TECHNOLOGY MATRIX
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Altozmo&show_icons=true&hide_border=true&bg_color=080B1C&title_color=48D9FF&icon_color=8B5CF6&text_color=C9D1D9"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altozmo&layout=compact&hide_border=true&bg_color=080B1C&title_color=48D9FF&text_color=C9D1D9"/>
+| DEVELOPMENT | TECHNOLOGIES |
+|:---:|:---|
+| `01` | Python |
+| `02` | HTML / CSS |
+| `03` | JavaScript |
+| `04` | Git / GitHub |
 
 </div>
+
+## ◈ 04 / NEURAL ARCHITECTURE
+
+<div align="center">
+
+```text
+                 ┌─────────────────────┐
+                 │    DIGITAL CORE     │
+                 │   ALTOZMO.SYS       │
+                 └──────────┬──────────┘
+                            │
+              ┌─────────────┼─────────────┐
+              │             │             │
+         ┌────▼────┐   ┌────▼────┐   ┌────▼────┐
+         │ PYTHON  │   │   AI    │   │  GAMES  │
+         │ SYSTEMS │   │ RESEARCH│   │  ENGINE │
+         └────┬────┘   └────┬────┘   └────┬────┘
+              │             │             │
+              └─────────────┼─────────────┘
+                            │
+                 ┌──────────▼──────────┐
+                 │  IDEAS → CREATION   │
+                 │  FUTURE → REALITY   │
+                 └─────────────────────┘
+```
+
+</div>
+
+## ◈ 05 / PROJECT DATABASE
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[01] FRESHCHECK**
+
+`ARTIFICIAL INTELLIGENCE`
+
+AI-based fruit freshness estimation.
+
+`STATUS: EXPERIMENTAL`
+
+</td>
+<td width="50%" valign="top">
+
+**[02] GAME LAB**
+
+`GAME DEVELOPMENT`
+
+Exploring game mechanics, programming and creative design.
+
+`STATUS: DEVELOPING`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[03] AI EXPERIMENTS**
+
+`MACHINE LEARNING`
+
+Exploring intelligent systems and practical AI applications.
+
+`STATUS: RESEARCH`
+
+</td>
+<td width="50%" valign="top">
+
+**[04] NEXT PROJECT**
+
+`CLASSIFIED`
+
+Something new is being developed.
+
+`STATUS: UNKNOWN`
+
+</td>
+</tr>
+</table>
+
+## ◈ 06 / DEVELOPER TERMINAL
+
+```python
+while True:
+    learn()
+    experiment()
+    create()
+    improve()
+```
+
+<details>
+<summary><b>ACCESS ADDITIONAL INFORMATION ▸</b></summary>
+
+```text
+USER       : ALTOZMO
+ALIAS      : GLITCH KNIGHT
+INTERESTS  : TECHNOLOGY / SCIENCE / CREATION
+MINDSET    : INFINITE CURIOSITY
+OBJECTIVE  : MAKE SOMETHING EXTRAORDINARY
+```
+
+</details>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,50:102B63,100:080B1C&height=120&section=footer" width="100%"/>
+### ⟢ THE FUTURE IS UNDER CONSTRUCTION ⟣
 
-**THE FUTURE IS UNDER CONSTRUCTION.**
+```text
+> DREAM BIG
+> THINK DIFFERENT
+> BUILD SOMETHING LEGENDARY
+```
 
-`END OF TRANSMISSION // ALTOZMO`
+<samp>END OF TRANSMISSION // ALTOZMO</samp>
+
+**[ CONNECTION TERMINATED ]**
 
 </div>
